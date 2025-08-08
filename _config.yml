@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Whether you’re seeking motivation or simply love thoughtful writing, Lyvora invites you to think, feel, and discover something new.
 twitter_username: username
 github_username: test
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: "dark"
 search: true
 
 # Build settings
