@@ -20,8 +20,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Join me as I share stories, insights, and personal experiences that encourage growth, curiosity, and a deeper connection with the world around us. 
   Whether you’re seeking motivation or simply love thoughtful writing, Lyvora invites you to think, feel, and discover something new.
 twitter_username: username
-github_username: username
-minimal_mistakes_skin: default
+github_username: test
+minimal_mistakes_skin: dark
 search: true
 
 # Build settings
@@ -58,9 +58,9 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Bryan Truong"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "I'm a curious creator passionate about tech, design, and storytelling. I use my blog to share insights, ideas, and projects that inspire growth, creativity, and connection. Always learning, always building."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
